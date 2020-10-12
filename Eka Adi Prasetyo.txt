@@ -2,3 +2,5 @@ Nama : Eka Adi Prasetyo
 NIM : G.231.18.0160
 
 Halo 
+Perkenalkan saya Eka Adi Prasetyo, sekarang saya sedang berlatih KloningGit di makul Open Source System Universitas Semarang
+Saya sangat antusias belajar materi ini karena ini sangat basic untuk calon programmer.
